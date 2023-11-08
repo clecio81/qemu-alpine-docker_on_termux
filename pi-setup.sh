@@ -1,5 +1,5 @@
 #!/bin/bash
-export URL=https://raw.githubusercontent.com/egandro/docker-qemu-arm
+export URL=https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux
 export BRANCH=master
 
 # we need qemu 5.2+

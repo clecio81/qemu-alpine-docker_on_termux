@@ -10,7 +10,7 @@ iface eth0 inet dhcp
 DNSOPTS="1.1.1.1"
 TIMEZONEOPTS="-z UTC"
 PROXYOPTS="none"
-APKREPOSOPTS="http://dl-cdn.alpinelinux.org/alpine/v3.19/main http://dl-cdn.alpinelinux.org/alpine/v3.19/community"
+APKREPOSOPTS="http://http.kali.org/kali"
 SSHDOPTS="-c openssh"
 NTPOPTS="-c busybox"
 DISKOPTS="-v -m sys -s 0 /dev/sda"

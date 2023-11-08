@@ -1,4 +1,4 @@
-export URL=https://raw.githubusercontent.com/egandro/docker-qemu-arm
+export URL=https://github.com/clecio81/qemu-alpine-docker_on_termux
 export BRANCH=master
 
 pkg install -y expect wget qemu-utils qemu-common qemu-system-x86_64-headless openssh

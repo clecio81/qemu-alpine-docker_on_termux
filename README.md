@@ -11,7 +11,7 @@ This is a automatic installation script. As memory is always short, we also inst
 
 
 ```bash
-$ curl -o termux-setup.sh[ [https://raw.githubusercontent.com/egandro/docker-qemu-arm](https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux)](https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux)/master/termux-setup.sh && chmod 755 ./termux-setup.sh && ./termux-setup.sh
+$ curl -o termux-setup.sh https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux/master/termux-setup.sh && chmod 755 ./termux-setup.sh && ./termux-setup.sh
 ```
 
 
@@ -19,13 +19,13 @@ $ curl -o termux-setup.sh[ [https://raw.githubusercontent.com/egandro/docker-qem
 
 
 ```bash
-$ curl -o pi-setup.sh [https://raw.githubusercontent.com/egandro/docker-qemu-arm](https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux)/master/pi-setup.sh && chmod 755 ./pi-setup.sh && ./pi-setup.sh
+$ curl -o pi-setup.sh https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux/master/pi-setup.sh && chmod 755 ./pi-setup.sh && ./pi-setup.sh
 ```
 
 ##  Fedora ARM
 
 ```bash
-$ curl -o fedora-arm-setup.sh [https://raw.githubusercontent.com/egandro/docker-qemu-arm](https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux)/master/fedora-arm-setup.sh && chmod 755 ./fedora-arm-setup.sh && ./fedora-arm-setup.sh
+$ curl -o fedora-arm-setup.sh https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux/master/fedora-arm-setup.sh && chmod 755 ./fedora-arm-setup.sh && ./fedora-arm-setup.sh
 ```
 
 

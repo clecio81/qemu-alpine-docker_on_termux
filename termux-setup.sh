@@ -1,4 +1,4 @@
-export URL=https://github.com/clecio81/qemu-alpine-docker_on_termux
+export URL=https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux
 export BRANCH=main
 
 pkg install -y expect wget qemu-utils qemu-common qemu-system-x86_64-headless openssh

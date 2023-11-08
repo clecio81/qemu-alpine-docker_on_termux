@@ -8,7 +8,7 @@ cd alpine
 
 if [ ! -f "config.env" ]; then
     # get the default config file
-    wget -q -c -t0 ${URL}/${BRANCH}/config.env
+    wget -q -c -t0 https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux/main/config.env
 fi
 
 # URL / BRANCH might be overwritten here

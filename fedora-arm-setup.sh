@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export URL=https://raw.githubusercontent.com/egandro/docker-qemu-arm
+export URL=https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux
 export BRANCH=master
 
 sudo dnf install -y qemu-system-x86-core edk2-ovmf expect wget

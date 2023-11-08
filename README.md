@@ -11,7 +11,7 @@ This is a automatic installation script. As memory is always short, we also inst
 
 
 ```bash
-$ curl -o termux-setup.sh[ https://raw.githubusercontent.com/egandro/docker-qemu-arm](https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux)/master/termux-setup.sh && chmod 755 ./termux-setup.sh && ./termux-setup.sh
+$ curl -o termux-setup.sh[ [https://raw.githubusercontent.com/egandro/docker-qemu-arm](https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux)](https://raw.githubusercontent.com/clecio81/qemu-alpine-docker_on_termux)/master/termux-setup.sh && chmod 755 ./termux-setup.sh && ./termux-setup.sh
 ```
 
 

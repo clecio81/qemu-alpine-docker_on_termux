@@ -7,10 +7,10 @@ auto eth0
 iface eth0 inet dhcp
     hostname alpine
 "
+DNSOPTS="1.1.1.1"
 TIMEZONEOPTS="-z UTC"
 PROXYOPTS="none"
-DNSOPTS="1.1.1.1"
-APKREPOSOPTS="http://dl-cdn.alpinelinux.org/alpine/latest-stable/main http://dl-cdn.alpinelinux.org/alpine/latest-stable/community"
+APKREPOSOPTS="http://dl-cdn.alpinelinux.org/alpine/v3.19/main http://dl-cdn.alpinelinux.org/alpine/v3.19/community"
 SSHDOPTS="-c openssh"
 NTPOPTS="-c busybox"
 DISKOPTS="-v -m sys -s 0 /dev/sda"
